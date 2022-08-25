@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expence-calculator-/static/css/main.ce555bd0.css",
+    "main.js": "/Expence-calculator-/static/js/main.dfa0ab39.js",
+    "index.html": "/Expence-calculator-/index.html",
+    "main.ce555bd0.css.map": "/Expence-calculator-/static/css/main.ce555bd0.css.map",
+    "main.dfa0ab39.js.map": "/Expence-calculator-/static/js/main.dfa0ab39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce555bd0.css",
+    "static/js/main.dfa0ab39.js"
+  ]
+}
