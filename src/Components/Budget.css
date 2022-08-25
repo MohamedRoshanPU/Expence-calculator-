@@ -1,0 +1,54 @@
+.budget-card {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 550px;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+
+.budget-card h2 {
+  font-size: 22px;
+  margin-bottom: 22px;
+  color: white;
+  font-style: italic;
+}
+
+.budget-card input {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  padding: 15px 18px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.budget-card button {
+  padding: 18px 28px;
+  border-radius: 50px;
+  background-color: #140e38;
+  color: white;
+  font-size: 16px;
+  margin-top: 22px;
+  border: none;
+  transition: all .5s;
+  cursor: pointer;
+}
+
+.budget-card button:hover{
+  background-color: #0e0733;
+
+}
+
+@media only screen and (max-width: 1150px) {
+  .budget-card {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .budget-card {
+    width: 100%;
+  }
+
+}

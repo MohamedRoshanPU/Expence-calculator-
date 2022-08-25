@@ -1,0 +1,31 @@
+.list-container{
+    margin-top: 40px;
+}
+
+.heading{
+    font-size: 20px;
+    list-style: none;
+    color: white;
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+.lists-wrapper{
+    display: flex;
+    gap: 70px;
+}
+
+.val{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    margin-top: 16px;
+    list-style: none;
+    display: flex;
+    justify-content: baseline;
+}
+
+.val img{
+    margin-left: 70px;
+}
